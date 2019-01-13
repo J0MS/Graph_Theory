@@ -1,0 +1,35 @@
+graph {
+	fill-color: grey;
+}
+
+node.sinVecinos {
+	fill-color: black;
+	text-color: white;
+	size: 15px;
+}
+
+node.unVecino {
+	fill-color: yellow;
+	size: 15px;
+	text-mode: normal;
+}
+
+node.dosVecinos {
+	fill-color: red;
+	size: 15px;
+}
+
+node.tresVecinos {
+	fill-color: green;
+	size: 15px;
+}
+
+node.cuatroVecinos {
+	fill-color: blue;
+	size: 15px;
+}
+
+node.cincoOmasVecinos {
+	fill-color: rgb(120, 40, 140);
+	size: 15px;
+}

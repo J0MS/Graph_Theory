@@ -1,0 +1,20 @@
+graph {
+	fill-color: grey;
+}
+
+node.sinVecinos {
+	fill-color: black;
+	text-color: white;
+	size: 15px;
+}
+
+node.sender {
+	fill-color: yellow;
+	size: 15px;
+	text-mode: normal;
+}
+
+node.reciver {
+	fill-color: green;
+	size: 15px;
+}
